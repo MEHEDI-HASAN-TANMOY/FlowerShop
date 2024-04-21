@@ -1,0 +1,195 @@
+body{
+    width: 100;
+    font-family: "Luxurious Roman", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+}
+.bannar{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FBB9C7;
+    background-repeat: no-repeat;
+    background-position: bottom right, top left;
+}
+.bannar-content{
+    max-width: 1000px;
+}
+.btn-primary{
+    background-color: #E55473;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.our-flower{
+    margin-top: 100px;
+}
+.section-title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+}
+.section-descrition{
+    color:#757575;
+    text-align: center;
+    font-family: open sans-serif;
+    font-size: 18px;
+    max-width: 1200px;
+}
+.flower-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.png6{
+    background-color: #e55473;
+    border: 0px;
+    border-radius: 50% 50% 0 0;
+    padding: 50px 50px 0px 50px;
+    height: 400px;
+    width: 300px;
+
+}
+.png5{
+    background-color: #0597A0;
+    border: 0px;
+    border-radius: 50% 50% 0 0;
+    padding: 50px 50px 0px 50px;
+    height: 400px;
+    width: 300px;
+}
+.png7{
+    background-color: #477D11;
+    border: 0px;
+    border-radius: 50% 50% 0 0;
+    padding: 50px 50px 0px 50px;
+    height: 400px;
+    width: 300px;
+}
+.pink{
+    height: 99.99%;
+}
+.blue{
+    height: 99.99%;
+    width: 98%;
+}
+.green{
+    height: 99.9%;
+}
+.tree{
+    text-align: center;
+    text-decoration: underline;
+}
+.service{
+    display: flex;
+    padding: 100px 100px 100px 100px;
+    border: 10px;
+    background-color: #dddada;
+    gap: 60px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+}
+.delivery{
+    justify-content: space-between;
+}
+.group-57{
+    align-items: center;
+}
+.deal{
+    text-align: center;
+    background-color: #f9c3cf;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 60px 30px 30px 30px;
+}
+.off{
+    color: orangered;
+}
+.social-link{
+    text-align: center;
+}
+.social-update{
+    display: flex;
+    margin: 30px 30px 30px 30px;
+    width: 50%;
+    height: 50%;  
+}
+.flower1{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.flower2{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.flower3{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.flower4{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.social{
+    margin-top: 60px;
+}
+
+.mail{
+    background-image: url(FlowerAsset/Rectangle\ 9.png);
+    align-items: center;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    
+}
+.latest{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.mail-link{
+    padding-bottom: 60px;
+}
+#email{
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    height: 53px;
+}
+.footer{
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0%;
+}
+.layout{
+    color: white;
+    padding-bottom: 20px;
+}
+.copy-right{
+    color: ghostwhite;
+    padding-bottom: 90px;
+}
+.shop{
+    padding-top: 90px;
+    color: white;
+    padding-bottom: 20px;
+}
